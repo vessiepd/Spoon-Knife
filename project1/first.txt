@@ -1,0 +1,17 @@
+My first day in Disney
+
+My second day in Disney
+
+My third day in Disney
+
+
+githubstudent/newproject
+
+git clone https://github.com/githubstudent/newproject.git
+
+https://githubtraining.campfire/
+
+Branching.
+C:\Users\vdjambazova\gitClass\newproject [master]> git branch feature1
+C:\Users\vdjambazova\gitClass\newproject [master]> git checkout feature1
+Switched to branch 'feature1'
